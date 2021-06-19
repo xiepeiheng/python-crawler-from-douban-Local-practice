@@ -8,7 +8,7 @@
 
 ### 第一部分
 
-首先是使用[**beautifulsoup中文文档**]([Beautiful Soup 4.4.0 文档 — Beautiful Soup 4.2.0 中文 文档](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#))提供的`Alice`样例学习beautifulsoup的使用方法
+首先是使用[**beautifulsoup中文文档**](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#)提供的`Alice`样例学习beautifulsoup的使用方法
 
 练习方法是首先运行`sever`文件夹中的`app.py`，然后运行`crawler`文件夹中的`alice crawler.py`尝试进行爬取练习。爬取的本地地址是`http://127.0.0.1:5000/alice`
 
